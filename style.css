@@ -9,3 +9,7 @@
 .promocao{
     border: solid 10px blue;
 }
+
+.valores{
+    font-style: italic;
+}
