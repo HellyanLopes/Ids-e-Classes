@@ -1,0 +1,11 @@
+.descricao-produto{
+    background-color: orange;
+    padding: 15px;
+    border-style: dotted;
+    border-color: beige;
+}
+
+
+.promocao{
+    border: solid 10px blue;
+}
